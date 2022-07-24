@@ -3,5 +3,6 @@ for i in range (10):
         print(f"Wynik to", i)
     else:
         print("Niestety wynik jest mniejszy niz 2 ")
-        
+ 
+print("paulina to paulina")
 
